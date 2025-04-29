@@ -28,5 +28,9 @@ void loop() {
   delay(1000); // Wait 1 second before next reading
 }
 
+LIBRARIES
 
+DHT11
+DHTlib
+DHT sensor library
 
