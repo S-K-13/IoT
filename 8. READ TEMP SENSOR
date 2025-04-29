@@ -26,6 +26,8 @@ void setup() {
 
 
 
+
+
 void loop() {
   delay(2000);
  
@@ -48,6 +50,8 @@ void loop() {
 }
 
 
+LIBRARIES 
 
-
-
+DHT sensor library
+DHT11
+DHTNEW
